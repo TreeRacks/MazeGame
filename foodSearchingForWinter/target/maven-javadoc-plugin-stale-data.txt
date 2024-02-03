@@ -1,0 +1,58 @@
+@options
+@packages
+-classpath
+'/Users/lindali/.m2/repository/com/jtransc/jtransc-rt/0.5.0-ALPHA4/jtransc-rt-0.5.0-ALPHA4.jar:/Users/lindali/.m2/repository/com/jtransc/jtransc-rt-core/0.5.0-ALPHA4/jtransc-rt-core-0.5.0-ALPHA4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'/Users/lindali/project/project/foodSearchingForWinter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/lindali/project/project/foodSearchingForWinter/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'foodSearchingForWinter 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/Users/lindali/project/project/foodSearchingForWinter/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'foodSearchingForWinter 1.0 API'
+Objects
+Tile
+Reward
+Punishment
+com.mycompany.foodsearchingforwinter
+/Users/lindali/.m2/repository/com/jtransc/jtransc-rt/0.5.0-ALPHA4/jtransc-rt-0.5.0-ALPHA4.jar = 1667427569962
+/Users/lindali/.m2/repository/com/jtransc/jtransc-rt-core/0.5.0-ALPHA4/jtransc-rt-core-0.5.0-ALPHA4.jar = 1667427568597
+/Users/lindali/project/project/foodSearchingForWinter/src/main/java/.DS_Store = 1667420028971
+/Users/lindali/project/project/foodSearchingForWinter/src/main/java = 1667432167980
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/constant-values.html = 1667710764198
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/tag-search-index.js = 1667710764357
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/overview-tree.html = 1667710764317
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/module-search-index.js = 1667710764354
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/index.html = 1667710764322
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/package-search-index.js = 1667710764355
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/jquery-ui.overrides.css = 1667710764415
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/serialized-form.html = 1667710764223
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/index-all.html = 1667710764386
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/allpackages-index.html = 1667710764354
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/member-search-index.js = 1667710764357
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/copy.svg = 1667710764399
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/script.js = 1667710764398
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/stylesheet.css = 1667710764397
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/overview-summary.html = 1667710764389
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/help-doc.html = 1667710764394
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/javadoc.sh = 1667586880121
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/element-list = 1667710764149
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/allclasses-index.html = 1667710764350
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/type-search-index.js = 1667710764356
+/Users/lindali/project/project/foodSearchingForWinter/target/apidocs/search.js = 1667710764401
