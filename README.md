@@ -1,13 +1,3 @@
-# CMPT276 Group 15 Project
-
-## Food Searching For Winter
-![avatar](foodSearchingForWinter\src\main\resources\Bunny\down1.png)
-![avatar](foodSearchingForWinter\src\main\resources\Reward\carrot3.png)
-![avatar](foodSearchingForWinter\src\main\resources\Reward\medkit.png)
-![avatar](foodSearchingForWinter\src\main\resources\Punish\spoiled_carrot.png)
-![avatar](foodSearchingForWinter\src\main\resources\Wolf\down1.png)
-
-### Group Member: 
 
 Clinton [@cwa230](https://csil-git1.cs.surrey.sfu.ca/cwa230)
 
